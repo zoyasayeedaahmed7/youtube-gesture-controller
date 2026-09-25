@@ -9,6 +9,3 @@ A Python application for controlling YouTube playback using hand gestures via co
 ## Features
 - Play / Pause video with hand gestures
 - Volume control
-
----
-
